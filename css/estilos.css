@@ -1,0 +1,125 @@
+<styles>
+.contenedor {
+	width: 1000px; /*ancho de la pagina*/
+	margin: 0 auto; /*centra el contenedor*/
+	background-color: #555; /*color de fondo*/
+}
+.encabezado {
+	width: 100%; /*ancho del div*/
+	height: 200px; /*alto del div*/
+	background-color: #aaf; /*color de fondo*/
+}
+h1 {
+	font-size: 60px;
+	color: #000000;
+	font-style: italic;
+	font-weight: bold;
+	margin-top: 60px;
+	text-shadow: #969696 5px 5px;
+}
+.logo {
+	width: 25%;
+	text-align: center;
+	margin-top: 25px;
+	float: left;
+}
+.redondear {
+	border-radius: 30px;
+}
+.titular {
+	width: 75%;
+	text-align: center;
+	float: left;
+}
+.navegacion {
+	width: 100%;
+	height: 90px;
+	background-color: #9F70FD;
+	text-align: center;
+}
+.navegacion a:link{
+	font-size: 30px;
+	text-decoration: none;
+	font-weight: bold;
+	letter-spacing: 2px;
+	color: #fff;
+}
+.navegacion a:hover{
+	font-size: 30px;
+	text-decoration: underline;
+	font-weight: bolder;
+	font-style: italic;
+	letter-spacing: 2px;
+	color: #E4D7FF;
+}
+.fondotab{
+	background-color: #BA97FE;
+	border-radius: 10px;
+	text-align: center;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+.barra {
+	width: 25%;
+	height: 600px;
+	background-color: #7755BB;
+	float: left;
+	text-align: center;
+}
+.barra1 {
+	text-align: center;
+	color: #FBF7FC;
+	font-size: large;
+}
+.principal {
+	width: 75%;
+	height: 600px;
+	background-color: #C3A5FF;
+	float: left;
+	text-align: center;
+}
+.textoprincipal {
+	color: #474154;
+}
+.texto2 {
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: justify;
+	color: #474154;
+	font-size: 16px;
+}
+.texto3 {
+	margin-left: 50px;
+	margin-right: 0px;
+	text-align: justify;
+	color: #474154;
+	font-size: 16px;
+	font-style: italic;
+}
+.texto4 {
+	color: #FFFFFF;
+	margin-left: 160px;
+	margin-right: 0px;
+	font-size: 20px;	
+}
+.texto5 {
+	margin-left: 190px;
+	margin-right: 0px;
+	font-size: 19px;	
+}
+h3 {
+	margin-left: 160px;
+	margin-right: 160px;
+}
+h4 {
+
+}
+.pie {
+	width: 100%;
+	height: 100px;
+	background-color: #7664B8;
+	float: left;
+	text-align: center;
+}
+</styles>
